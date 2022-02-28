@@ -30,6 +30,8 @@ This project was completed from scratch as part of uni coursework, in a team of 
 - View trending stocks among other users
 - Relevant stock news sentiment analysis
 
+![stox_walkthrough](https://user-images.githubusercontent.com/81475247/155943950-6556c481-20e3-4745-aa2c-d9071e85b273.gif)
+
 ### APIs
 
 - **AlphaVantage:** Retrieval of historical and current stock information
