@@ -9,9 +9,11 @@ Assuming that node and npm are installed properly, from the root project directo
 
 ## Quick Start
 
-From root project directory run: `npm run dev`
+From root project directory run:
 
-- Note that a valid MongoDB URI, as well as AlphaVantage and NewsAPI keys are needed for proper functionality
+1. `npm run dev`
+
+Note that a valid MongoDB URI, as well as AlphaVantage and NewsAPI keys are needed for proper functionality. These can be added in the file `backend/keys.js`.
 
 ## About stox
 
