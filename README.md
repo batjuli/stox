@@ -1,4 +1,5 @@
 # stox :money_with_wings:
+![stox_walkthrough](https://user-images.githubusercontent.com/81475247/155943950-6556c481-20e3-4745-aa2c-d9071e85b273.gif)
 
 ## About stox
 
@@ -14,8 +15,6 @@ This project was completed from scratch as part of uni coursework, in a team of 
 - Summaries of earnings from portfolios
 - View trending stocks among other users
 - Relevant stock news sentiment analysis
-
-![stox_walkthrough](https://user-images.githubusercontent.com/81475247/155943950-6556c481-20e3-4745-aa2c-d9071e85b273.gif)
 
 ## Installation Guide
 
